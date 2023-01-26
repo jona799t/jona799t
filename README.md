@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>  
 <h3 align="center">A developer from Denmark 🇩🇰</h3>  
   
-- 🔭 I’m currently primarily working on **[Better Lectio](https://betlec.netlify.app/)**  
+- 🔭 I’m currently primarily working on **[Better Lectio](https://betterlectio.dk/)**  
   
 - 👨‍💻 All of my projects are available on my **[Github](https://github.com/jona799t?tab=repositories)**
   
